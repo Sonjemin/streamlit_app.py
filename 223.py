@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # OpenAI API 키 설정
-openai.api_key = 'YOUR_OPENAI_API_KEY'  # 실제 API 키로 변경하세요
+openai.api_key = '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'  # 실제 API 키로 변경하세요
 
 # Streamlit 앱 제목
 st.title("GPT-4.1-mini 모델 응답 출력기")
